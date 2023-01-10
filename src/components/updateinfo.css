@@ -1,0 +1,64 @@
+.App {
+  text-align: center;
+  background-color: #1d4499;
+}
+
+.forgotpassword {
+  position: relative;
+  bottom: 10px;
+}
+
+.button {
+}
+
+.form-box {
+  width: 60%;
+  background-color: white;
+  border: 5px solid rgb(250, 248, 248);
+  margin: auto;
+}
+
+.button {
+  color: blue;
+  background-color: rgb(210, 38, 38);
+  border-radius: 8px;
+  font-size: 45px;
+}
+
+.button:hover {
+  background-color: green;
+  cursor: pointer;
+}
+
+.checkbox {
+  width: 20px;
+  height: 20px;
+}
+
+.fields {
+  font-size: 50px;
+}
+
+.header {
+  font-size: 80px;
+  color: #000408;
+}
+
+.dropdown {
+  padding: 10px;
+  font-size: 20px;
+  cursor: pointer;
+  background-color: rgb(246, 243, 240);
+}
+
+.log-button {
+  float: right;
+}
+
+.sub-text {
+  font-size: 25px;
+}
+
+#UserinfoHeading {
+  text-align: center;
+}

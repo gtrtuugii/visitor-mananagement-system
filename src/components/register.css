@@ -1,0 +1,78 @@
+@media screen and (min-width: 840px) {
+  .form {
+    flex-wrap: nowrap;
+    padding: 0%;
+    margin: 0%;
+    width: 100%;
+  }
+
+  div {
+    flex-basis: 33%;
+  }
+}
+
+/* Viewports between 320px and 480px wide */
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+  .card {
+    padding: 0;
+    margin: 0;
+  }
+}
+
+body {
+  background: #bdc3c7; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #48502c,
+    #bdc3c7
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #1273d3,
+    #0099ff
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+/* Style the top navigation bar */
+.navbar {
+  overflow: hidden;
+}
+
+.form {
+  background-color: white;
+  border-radius: 0.3125em;
+  width: 60%;
+  margin: 1% auto;
+  padding: 1%;
+
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.form-body {
+  text-align: left;
+  padding: 1.25em 1rem;
+}
+
+.form-body > * {
+  padding: 1%;
+}
+
+.form__label {
+  width: 40%;
+}
+
+.form_input {
+  width: 60%;
+}
+
+.form-check {
+  padding-left: 2em;
+}
+#dropselect {
+  margin-left: 1%;
+}
+
+.footer {
+  text-align: center;
+}

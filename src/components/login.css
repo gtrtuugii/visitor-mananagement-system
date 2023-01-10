@@ -1,0 +1,43 @@
+a:hover {
+  color: gold;
+}
+
+.text_with_line {
+  color: white;
+  padding-bottom: 10px;
+}
+
+.login__container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+
+  padding: 70px;
+  border-radius: 10px;
+}
+.login__textBox {
+  padding: 10px;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+.login__btn {
+  padding: 10px;
+  font-size: 18px;
+  margin-bottom: 10px;
+  border: none;
+  color: white;
+  background-color: black;
+  border-radius: 5px;
+  box-shadow: 1px 1px 1px 1px #39a2db;
+}
+
+.login__btn:hover {
+  background-color: gold;
+  color: #4285f4;
+}
+.login__google {
+  background-color: #4285f4;
+}
+.login div {
+  margin-top: 7px;
+}

@@ -1,0 +1,12 @@
+.AppBar {
+  color: white;
+  background-color: wheat;
+}
+#nvbar a {
+  color: aliceblue;
+}
+#nvbar #uwalogo {
+  position: relative;
+  bottom: 1em;
+  right: 0.2em;
+}

@@ -1,0 +1,29 @@
+.App {
+  font-family: sans-serif;
+}
+/*
+<div className="login-wrapper">
+      <h1>Please Log In</h1>
+      <form>
+        <label>
+          <p>Email</p>
+         
+          <input
+            className="form__input"
+            type="text"
+            
+            
+            id="fullName"
+            placeholder="example@email.com"
+          />
+        </label>
+        <label>
+          <p>Password</p>
+          <input type="password" />
+        </label>
+        <div>
+          <button type="submit">Submit</button>
+        </div>
+      </form>
+    </div>
+  */

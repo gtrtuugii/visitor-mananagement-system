@@ -1,0 +1,62 @@
+.App {
+  text-align: center;
+}
+
+#CheckedInTable {
+  display: block;
+  overflow: scroll;
+  align-self: center;
+  align-items: center;
+  text-align: center;
+  background-color: white;
+  max-width: 100%;
+  max-height: 50vh;
+  border: 2px solid forestgreen;
+}
+#CheckedInTable td {
+  margin: auto;
+  padding: 1.2em;
+}
+#CheckedInTable th {
+  text-align: center;
+  margin: auto;
+  padding: 1.2em;
+  background-color: lightblue;
+}
+
+#log_table {
+  height: auto;
+  background-color: white;
+  border: 2px solid navy;
+  display: block;
+  overflow: scroll;
+  max-height: 50vh;
+  max-width: 100%;
+}
+
+#log_table td {
+  margin: auto;
+  padding: 1.2em;
+}
+#log_table th {
+  text-align: center;
+  margin: auto;
+  padding: 1.2em;
+  background-color: lightblue;
+}
+
+th {
+  border: 1px solid black;
+  text-align: left;
+}
+
+td {
+  text-align: left;
+  border: 1px solid black;
+  text-align: center;
+}
+
+#a_text {
+  width: 100%;
+  height: 50%;
+}

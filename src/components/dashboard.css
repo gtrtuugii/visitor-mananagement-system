@@ -1,0 +1,63 @@
+body {
+  background-color: white;
+}
+
+#visits_table {
+  display: block;
+  max-height: 40vh;
+  overflow: scroll;
+  align-self: center;
+  text-align: center;
+  align-items: center;
+  background-color: white;
+  border: 2px solid gold;
+  border-radius: 5px;
+}
+#visits_table th {
+  background-color: lightyellow;
+}
+#contact_table {
+  display: block;
+  overflow: auto;
+  height: auto;
+  width: auto;
+  align-self: center;
+  text-align: center;
+  align-items: center;
+  background-color: #d5d8da;
+  border: 2px solid forestgreen;
+  border-radius: 5px;
+}
+#contact_table th {
+  background-color: lightgreen;
+}
+#contact_table td {
+  background-color: white;
+}
+
+th {
+  border: 1px solid black;
+  text-align: left;
+}
+
+td {
+  text-align: left;
+  border: 1px solid black;
+  text-align: center;
+}
+#a_table {
+  display: block;
+  overflow: scroll;
+  height: auto;
+  width: auto;
+  align-self: center;
+  text-align: center;
+  align-items: center;
+  border-radius: 5px;
+}
+#author {
+  background-color: lightskyblue;
+}
+#title {
+  background-color: lightgoldenrodyellow;
+}
