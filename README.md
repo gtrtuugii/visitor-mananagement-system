@@ -2,7 +2,7 @@
 
 ## Overview
 
-## Project is visable [here](https://csb-rdxfbp.netlify.app/).: 
+## Project can be viewed [here](https://csb-rdxfbp.netlify.app/).
 
 ### Project Deliverables
 
