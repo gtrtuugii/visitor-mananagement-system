@@ -2,6 +2,8 @@
 
 ## Overview
 
+### Project is visable at: https://csb-rdxfbp.netlify.app/
+
 ### Project Deliverables
 
 1. A visitor induction module with the following features:
