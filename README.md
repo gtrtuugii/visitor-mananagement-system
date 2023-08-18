@@ -58,14 +58,19 @@ The login and authentication system is the gateway to secure and personalized ac
   ● Read the terms and conditions of using the user dashboard carefully before
   accepting. Make sure you understand what actions are allowed, what actions are
   prohibited, and what happens in case of violation.
+  
   ● If you have any questions or concerns about the user dashboard terms and
   conditions, contact the webpage's support team before accepting.
+  
   ● If you do not agree with the user dashboard terms and conditions, you may choose
   not to use the dashboard.
+  
   ● If you accept the terms and conditions, you are acknowledging your responsibility to
   use the dashboard ethically and in compliance with the rules.
+  
   ● Be aware that the webpage may monitor user activity on the dashboard to ensure
   compliance with the terms and conditions.
+  
   ● If the user dashboard terms and conditions are updated, you will be notified and
   given the option to accept or decline the new terms.
 
@@ -110,9 +115,12 @@ The log-out functionality provides users with a secure and straightforward way t
 
   ● When the visitor has logged in successfully, click on the top left corner and the navigation
   will be displayed
+  
   ● Users with admin role will be displayed an additional page called “Admin” where they can:
   ● See the user database
+  
   ● See the visitor log
+  
   ● Make announcements
 
 ### Floating Announcement
